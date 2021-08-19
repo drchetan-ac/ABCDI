@@ -12,6 +12,8 @@ An excel sheet of the data should be prepared in the format as in "example data 
 Update the "logins.xlsx" file with login credentials of the lab. 
 ABCDI is distributed freely under GNU AGPL license.
 
+Update the appropriate drivers in /src/drivers/ as per the version of the installed browser. Firefox is recommended, for which gecko drivers are included, but may need to be updated as required in the host system.
+
 Acknowledgements:
 1. ICMR NITM COVID testing lab, including the nodal officer, data entry staff for providing crucial inputs to develop this software.
 2. Dr. Debprasad Chattopadhyay, Director, ICMR NITM for his support.
