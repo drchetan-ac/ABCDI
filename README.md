@@ -14,6 +14,19 @@ ABCDI is distributed freely under GNU AGPL license.
 
 Update the appropriate drivers in /src/drivers/ as per the version of the installed browser. Firefox is recommended, for which gecko drivers are included, but may need to be updated as required in the host system.
 
+Contents of "login_file.xlsx" in sheet login_cred
+1. URL	https://cvstatus.icmr.gov.in
+2. User_Name
+3. Password	Login
+4. prefix	Local_Lab
+5. ProceedWithRATfollowup	NO
+6. Unique Text for the lab - already fetched alert	"Lab Name:- Contact Person:- Email:- "
+7. Geckodriver path	C:\\entryBot\\geckodriver.exe
+8. ChromeDriver Path	C:\\entryBot\\chromedriver.exe
+9. Default Driver	firefox
+
+
+
 Acknowledgements:
 1. ICMR NITM COVID testing lab, including the nodal officer, data entry staff for providing crucial inputs to develop this software.
 2. Dr. Debprasad Chattopadhyay, Director, ICMR NITM for his support.
