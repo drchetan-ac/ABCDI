@@ -1,6 +1,9 @@
 # ABCDI
 ABCDI: Automated BOT for Covid test results Data entry into ICMR portal
 
+Developed by: Dr. Chetan A C, Scientist B, ICMR National Institue of Traditional Medicine
+Email: chetan.ac.icmr@gmail.com
+
 ABCDI is an desktop bot for automatic entry of COVID RTPCR test results into ICMR portal, https://cvstatus.icmr.gov.in, which is mandatory for COVID tests done in India as per Government of India and State Government orders. The bot is based on Selenium-Python framework. The program is designed to read the "login.xlsx" for login credentials & configuraiton details, and the data source in a preset format for data source. Program triggers the web drivers of Firefox or Chrome as per the configuraiton, opens the COVID data portal of ICMR, logs in with the credentials provided, searches the srf ID as provided, starting from the last entry in the data source excel sheet, and updates information as provided, followed by submission, before moving on to the next entry. 
 
 The bot runs locally from the desktop computer, without sharing data elsewhere apart from the ICMR covid portal. 
