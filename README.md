@@ -31,6 +31,7 @@ Contents of "login_file.xlsx" in sheet login_cred
 
 
 Acknowledgements:
-1. ICMR NITM COVID testing lab, including the nodal officer, data entry staff for providing crucial inputs to develop this software.
-2. Dr. Debprasad Chattopadhyay, Director, ICMR NITM for his support.
+1. ICMR NITM COVID testing lab, especially the data entry staff for providing crucial inputs to develop this software.
+2. Nodal officer for COVID testing lab at ICMR NITM, Dr. Banappa Unger, Scientist E
+3. Dr. Debprasad Chattopadhyay, Director, ICMR NITM for his support.
 
