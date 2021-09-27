@@ -28,7 +28,9 @@ Contents of "login_file.xlsx" in sheet login_cred
 8. ChromeDriver Path	C:\\entryBot\\chromedriver.exe
 9. Default Driver	firefox
 
-
+Contact: 
+Dr. Chetan A C
+Email: chetan.ac.icmr@gmail.com
 
 Acknowledgements:
 1. ICMR NITM COVID testing lab, especially the data entry staff for providing crucial inputs to develop this software.
